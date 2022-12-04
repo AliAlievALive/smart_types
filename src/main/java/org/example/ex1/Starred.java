@@ -2,7 +2,7 @@ package org.example.ex1;
 
 import org.example.util.Check;
 
-import static org.example.ex1.Show.show;
+import static org.example.util.Show.show;
 
 public class Starred {
     static int f1(int stars) {

@@ -1,4 +1,4 @@
-package org.example.ex1;
+package org.example.util;
 
 public class Show {
     public static void show(Object msg) {

@@ -1,6 +1,6 @@
 package org.example.util;
 
-import static org.example.ex1.Show.show;
+import static org.example.util.Show.show;
 
 public class Check {
     public static boolean valid(Boolean exp, String errInfo) {

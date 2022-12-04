@@ -1,6 +1,6 @@
 package org.example.ex2;
 
-import static org.example.ex1.Show.show;
+import static org.example.util.Show.show;
 
 public class Encapsulation {
     public static void main(String[] args) {
